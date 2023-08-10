@@ -1,3 +1,5 @@
+⚠️ This repo is abandoned, use https://github.com/bitwala/react-native-idnow
+
 # react-native-idnow
 
 React Native IDnow binding for iOS/Android platforms.
